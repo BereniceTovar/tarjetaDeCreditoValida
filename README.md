@@ -6,7 +6,7 @@ Se crea una web que pida un número de una tarjeta de crédito y confirme si es 
 ## Pseudocódigo
 ### Descripción
 
-1. Se tiene una variable llamada creditNumber que por medio de un prompt pide ingresar el número de tarjeta.
+1. Se tiene una variable llamada cardNumbers que por medio de un prompt pide ingresar el número de tarjeta.
 
 2. Se verifica que se estén trabajando con números de lo contrario aparecerá el mensaje ‘Tarjeta invalida, vuelve a intentarlo’.
 
