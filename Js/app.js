@@ -51,3 +51,5 @@ function isValidCard (cardNumbers ) {
 }//Se cierra el else
 
 alert(isValidCard(cardNumbers));
+
+document.getElementById('Result').innerHTML = isValidCard(cardNumbers);
